@@ -8,6 +8,11 @@
 
 ## Projects of Note:
 
+✨
+
+✨
+
+✨
 
 ## Some fun facts:
 
