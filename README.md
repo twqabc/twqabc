@@ -6,13 +6,15 @@
 
 - 🍓 segementfault：https://segmentfault.com/u/twqabc
 
+- 🍓 twitter：https://twitter.com/twqabc
+
 ## Projects of Note:
 
-✨
+✨ one
 
-✨
+✨ two
 
-✨
+✨ three
 
 ## Some fun facts:
 
