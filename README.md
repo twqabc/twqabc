@@ -4,7 +4,7 @@
 
 - 🍓 Personal website：https://github.com/twqabc.io
 
-- 🍓 segementfault：segmentfault.com/u/twqabc
+- 🍓 segementfault：https://segmentfault.com/u/twqabc
 
 ## Projects of Note:
 
