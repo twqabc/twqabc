@@ -1,8 +1,8 @@
 #  JavaScript Auntie is here!
 
-<img alt="Queen of the Internet" border="0" height="236" src="http://image.blingee.com/images19/content/output/000/000/000/833/858545211_256285.gif" title="Queen of the Internet" width="400" />
+<img alt="Queen of the Internet" border="0" height="236" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fupload%2Fupc%2Ftx%2Fitbbs%2F1406%2F19%2Fc18%2F35460275_1403178996604_mthumb.jpg&refer=http%3A%2F%2Fimg.pconline.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1620956986&t=6770b4875d3c7021eaf411a7ccbdf22d" title="Queen of the Internet" width="400" />
 
-Find me on the interwebz at [jenlooper.com](http://jenlooper.com) or on Twitter [@jenlooper](http://twitter.com/jenlooper). Pronouns are she/her. 
+Find me on the interwebz at [twqabc.com](http://jenlooper.com) or on Twitter [@twqabc](http://twitter.com/twqabc). Pronouns are she/her. 
 
 ## Projects of Note:
 
@@ -27,5 +27,3 @@ Enjoy [free Machine Learning zines](https://zines.jenlooper.com)!
 ✨ I also enjoy hardware hacking, with a strong presence on Hackster.io.
 
 ✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc.
-
-✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two college-aged daughters.
