@@ -4,4 +4,4 @@
 > I'm a web developer based in China.   
 > Currently a student.
 
-🔗 https://twitter.com/twqabc
+🔗 http://weiqi.icu/
