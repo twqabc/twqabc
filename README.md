@@ -2,6 +2,5 @@
 
 ### Hi there 👋
 > I'm a web developer based in China.   
-> Currently a student.
 
-🔗 http://weiqi.icu/
+🔗 https://twqabc.github.io/
